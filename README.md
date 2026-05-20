@@ -1,1 +1,3 @@
-# NFIL3KO_CAR_manuscript
+This repository contains scripts to generate the figures in the paper: **Integrated Chronic In Vivo and In Vitro Screens Uncover NFIL3 as a Driver of T-cell Dysfunction** by Jain, N, Shi, Y, May, C et al., *Cancer Discovery* 2026: https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-25-1524/785154/Integrated-Chronic-In-Vivo-and-In-Vitro-Screens
+
+Associated data to reporduce the figures can be downloaded from: https://doi.org/10.5281/zenodo.18380760
